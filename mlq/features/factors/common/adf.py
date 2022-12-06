@@ -1,6 +1,7 @@
 from dataclasses import dataclass
-from arch.unitroot import ADF
+
 import pandas as pd
+from arch.unitroot import ADF
 
 
 @dataclass
